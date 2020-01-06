@@ -4,3 +4,7 @@ terminal:
 ifconfig (wlan0 wlan1 xem thang nao ko co dia chi ip (192.168.0.4))
 cd Desktop
 ./run.sh 0 (hoac 1)
+
+pc:
+chạy file test.py để test firebase
+chạy file usrp_gui.py de bat dau theo doi
